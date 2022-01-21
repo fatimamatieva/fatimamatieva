@@ -1,4 +1,5 @@
-![First](/Users/fatimamatieva/Desktop/git_profile/fatimamatieva/download.png)
+![alt text][logo]
+[logo]: /Users/fatimamatieva/Desktop/git_profile/fatimamatieva/download.png
 
 ### Hello
 - 🔭 I’m currently a CS student at University in Stavanger
