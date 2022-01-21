@@ -6,5 +6,5 @@
 - 🌱 I’m also interested in hardware and microelectronics.
 - 📫 How to reach me: fatimamatieva@outlook.com
 ### Views Counter
-![](https://komarev.com/ghpvc/?username=fatimamatieva&color=dc143c)
+![](https://komarev.com/ghpvc/?username=fatimamatieva&color=6200F9)
 
