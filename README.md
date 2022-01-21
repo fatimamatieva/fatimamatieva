@@ -1,4 +1,4 @@
-![Fatima Matieva](/Users/fatimamatieva/Desktop/git_profile/fatimamatieva/header.png)
+![Fatima Matieva](https://github.com/fatimamatieva/fatimamatieva/blob/main/download.png)
 
 
 ### Hello
