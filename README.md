@@ -16,8 +16,8 @@
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
 
-### something else 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatimamatieva)](https://git.io/streak-stats)
+<!-- ### streak 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fatimamatieva)](https://git.io/streak-stats) -->
 
-### stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimamatieva)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fatimamatieva)](https://github.com/anuraghazra/github-readme-stats) -->
