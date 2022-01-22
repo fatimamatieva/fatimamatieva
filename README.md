@@ -1,11 +1,11 @@
 ![Header](https://github.com/fatimamatieva/fatimamatieva/blob/main/space.jpeg)
 
 
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hellooo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently a CS student at University in Stavanger
 - 🌱 I’m also interested in hardware and microelectronics.
 - 📫 How to reach me: fatimamatieva@outlook.com
 ### Views Counter
 ![](https://komarev.com/ghpvc/?username=fatimamatieva&color=6200F9)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fatimamatieva)](https://github.com/anuraghazra/github-readme-stats)
