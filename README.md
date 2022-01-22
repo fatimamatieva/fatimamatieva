@@ -1,7 +1,7 @@
 ![Header](https://github.com/fatimamatieva/fatimamatieva/blob/main/space.jpeg)
 
 
-### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently a CS student at University in Stavanger
 - 🌱 I’m also interested in hardware and microelectronics.
