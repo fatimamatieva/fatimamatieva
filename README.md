@@ -8,4 +8,5 @@
 - 📫 How to reach me: fatimamatieva@outlook.com
 ### Views Counter
 ![](https://komarev.com/ghpvc/?username=fatimamatieva&color=6200F9)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?fatimamatieva)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apifatimamatieva=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
