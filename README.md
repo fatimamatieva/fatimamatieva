@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently a CS student at UiS
 - 🌱 I’m also interested in hardware and microelectronics.
-- 📫 How to reach me: fatimamatieva@outlook.com
 ### Views Counter
 ![](https://komarev.com/ghpvc/?username=fatimamatieva&color=6200F9)
 
