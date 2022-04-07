@@ -3,7 +3,7 @@
 
 # Hellooo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently a CS student at University in Stavanger
+- 🔭 I’m currently a CS student at UiS
 - 🌱 I’m also interested in hardware and microelectronics.
 - 📫 How to reach me: fatimamatieva@outlook.com
 ### Views Counter
